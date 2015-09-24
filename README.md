@@ -8,8 +8,9 @@ I chose LiveScript because of the notational conventions it provides to create d
 
 Technology used:
 
-## Node
-## Express
-## Livescript
-## Vis.js
-Watch this space
+- Node
+- Express
+- Livescript
+- Vis.js
+
+`Watch this space`
