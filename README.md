@@ -1,5 +1,5 @@
-# arch-viewjs
-Node JavaScript utilities to manage architecture models
+# Archichitecure View
+Node JavaScript utilities to manage and visualize architecture models
 
 This provide a thin layer on top of vis.js library to render architecture diagrams. It is also to add a few helper functions in LiveScript. I was also trying to learn how effective functional programming in JavaScript can be.
 
